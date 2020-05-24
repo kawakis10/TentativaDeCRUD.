@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TentativaDeCRUD</string>
+    <string name="cadastro">Não tem uma conta? Clique aqui para criar!</string>
+    <string name="login">Acessar</string>
+
+</resources>
